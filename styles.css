@@ -1,0 +1,64 @@
+body { 
+    color: #027020;
+    background-color: #f6fdf1;
+    font-family: 'Gill Sans MT', Calibri, sans-serif;
+}
+blockquote {
+	margin: 1em 3em;
+    background-color:#fff ;
+	color: #999;
+	border-left: 2px solid #999;
+	padding-left: 1em;
+ }
+.rounded {
+	background-color: #666;
+	color: #fff;
+	font-weight: normal;
+	padding: 10px;
+    border-radius: 5px;
+}
+.list {
+    font-size: 20px;
+    border: 2px solid #999;
+    padding-left: 20px;
+}
+.benodigdheden {
+    font-size: 20px;
+    margin: 0 auto;
+    width: 40%;
+}
+header {
+    border: 7px double #12f54f;
+    margin: 15px;
+    padding: 0px 10px 5px 10px;
+    }
+main {
+    border: 7px double #0fbe3e;
+    margin: 15px;
+    padding: 0px 10px 5px 10px;
+}
+footer {
+    border: 7px double #11752b;
+    margin: 15px;
+    padding: 0px 5px 15px 10px;
+}
+.footer-about {
+    border: 7px double #11752b;
+    margin: 15px;
+    padding: 10px;
+}
+.h1-about {
+    margin: 0 auto;
+    width: 40%;
+    padding: 10px;
+}
+.nav-menu {
+    display: inline;
+    padding:10px;
+}
+.top-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
